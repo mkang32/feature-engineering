@@ -22,7 +22,16 @@ The covered topics include
   - Weight of evidence (WoE)
 - Variable Transformation 
 - Discretization 
+  - Equal-width discretization
+  - Equal-frequency (quantile) discretization
+  - K-means discretization 
+  - Discretization with decision trees 
+  - Domain knowledge discretization
 - Outlier Handling 
+  - Outlier trimming
+  - Censoring or capping
+  - Outlier capping using mean and std 
+  - Outlier capping using quantiles
 - Feature Scaling
   - Standardization 
   - Mean normalization 
